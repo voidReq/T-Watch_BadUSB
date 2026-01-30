@@ -1,3 +1,6 @@
+# DISCLAIMER
+The software of this project was entirely AI generated. I only published it in case anyone could find it helpful as reference.
+
 # T-Watch BadUSB
 
 A Rubber Ducky script execution system for LilyGo T-Watch with web-based script management.
